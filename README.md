@@ -5,3 +5,7 @@
 
 ### Period: May 2018 ~ Present
 ### Skills Used: Python(pandas, matplotlib, seaborn etc.), STATA
+
+## For more information, check out the following sites.
+https://stories.vassar.edu/2018/180808-2018-ford-scholars.html
+https://ford.vassar.edu/projects/2018/econ-argudo.html
